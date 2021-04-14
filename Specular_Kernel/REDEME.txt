@@ -1,0 +1,7 @@
+In this folder, all the data and jupyter notebook focus on specular-kernel. Here are some points you need to keep in mind.
+
+1. The data are created usieng fully Maxwellian-type kernel, and the accommodation coefficient are determined by our self, most of time, it is default as 0.5.
+
+2. Then we are going to use Symbolic Regression to test if it is possible to retrieve the equation from the data. 
+
+3. There are two jupyter notebooks needed attention, i.e. using postfix with Sharp. Thses two files use functions more like Dirac-Delta function, and for the function set, we are not going to use some variabels like, 1000, but using 1/0.001 instead. 

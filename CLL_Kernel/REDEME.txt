@@ -1,0 +1,3 @@
+This folder contains all the works for the CLL-kernel, and the data is extracted from Maxwellian_Jinkai folder, where all the data have the sepcified incident velocity. 
+
+Actually, we are going to test vi=0.1, 0.9, and 1.9 MPS for tangential and normal part of CLL-kernels. vi = 0.1 is test using only one single jupyter notebook, others are all stored in two folders, and the photo should be stored here, I suppose. 

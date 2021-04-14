@@ -1,0 +1,48 @@
+{
+    "diffusiveWall": {
+        "3_meas_velocities_bottom": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\3_meas_velocities_bottom.txt",
+        "3_meas_velocities_top": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\3_meas_velocities_top.txt",
+        "README": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\README.txt",
+        "velocity_histogram_normal": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\velocity_histogram_normal.txt",
+        "velocity_histogram_tangential": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\velocity_histogram_tangential.txt",
+        "velocity_histogram_tangential_x": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\velocity_histogram_tangential_x.txt",
+        "velocity_histogram_tangential_y": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\diffusiveWall_Jinkai\\velocity_histogram_tangential_y.txt"
+    },
+    "Maxwellian": {
+        "incident_velocity_normal": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\incident_velocity_normal.txt",
+        "incident_velocity_tangential": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\incident_velocity_tangential.txt",
+        "incident_velocity_tangential_x": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\incident_velocity_tangential_x.txt",
+        "incident_velocity_tangential_y": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\incident_velocity_tangential_y.txt",
+        "normal_ACs": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\normal_ACs.txt",
+        "README": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\README.txt",
+        "reflected_normal_01": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_normal_01.txt",
+        "reflected_normal_05": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_normal_05.txt",
+        "reflected_normal_09": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_normal_09.txt",
+        "reflected_normal_14": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_normal_14.txt",
+        "reflected_normal_19": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_normal_19.txt",
+        "reflected_Tx_01": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_Tx_01.txt",
+        "reflected_Tx_05": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_Tx_05.txt",
+        "reflected_Tx_09": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_Tx_09.txt",
+        "reflected_Tx_14": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_Tx_14.txt",
+        "reflected_Tx_19": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_Tx_19.txt",
+        "reflected_velocity_normal": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_velocity_normal.txt",
+        "reflected_velocity_tangential": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_velocity_tangential.txt",
+        "reflected_velocity_tangential_x": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_velocity_tangential_x.txt",
+        "reflected_velocity_tangential_y": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\reflected_velocity_tangential_y.txt",
+        "tangential_ACs": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\tangential_ACs.txt",
+        "tangential_KEs": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\tangential_KEs.txt",
+        "x_meas_gas_full": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\Maxwellian_Jinkai\\x_meas_gas_full.cpp"
+    },
+    "specifiedV": {
+        "3_meas_velocities_bottom": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\3_meas_velocities_bottom.txt",
+        "3_meas_velocities_top": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\3_meas_velocities_top.txt",
+        "incident_velocity_normal": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\incident_velocity_normal.txt",
+        "incident_velocity_tangential": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\incident_velocity_tangential.txt",
+        "incident_velocity_tangential_x": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\incident_velocity_tangential_x.txt",
+        "incident_velocity_tangential_y": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\incident_velocity_tangential_y.txt",
+        "reflected_velocity_normal": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\reflected_velocity_normal.txt",
+        "reflected_velocity_tangential": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\reflected_velocity_tangential.txt",
+        "reflected_velocity_tangential_x": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\reflected_velocity_tangential_x.txt",
+        "reflected_velocity_tangential_y": "E:\\School 4\\BEng Mechanical Engineering Project\\AiFeynmanTest\\Completely_Diffuse_Kernel\\../SK_Data\\specifiedV_Jinkai\\reflected_velocity_tangential_y.txt"
+    }
+}
